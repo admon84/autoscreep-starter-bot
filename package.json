@@ -23,7 +23,7 @@
     "@rollup/plugin-commonjs": "^25.0.7",
     "@rollup/plugin-node-resolve": "^15.2.3",
     "@types/lodash": "3.10.9",
-    "@types/node": "^20.10.7",
+    "@types/node": "^20.12.7",
     "@types/screeps": "^3.3.7",
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "@typescript-eslint/parser": "^6.21.0",
